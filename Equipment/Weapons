@@ -1,0 +1,97 @@
+Weapons, like Armor, are divided into tier categories based on their rarity and effectiveness in the field. All players begin with Tier I equipment of their choosing, but higher tiers can be gathered through in-field acquisition, VIC requisition, or trading with local markets (operatives can also acquire gear through illegitimate channels/means, but official VI doctrine strongly discourages and disavows any actions that would catch the attention of local authorities). 
+
+# Tier I
+`Military grade, mass-produced, or otherwise run-of-the-mill hardware.`
+
+## Ranged Weapons 
+`An overwhelming majority of mass produced weapons are the Earthen combustion  rifles. Because of their relatively cheap manufacturing costs and extensive modularity, Human guns have profliferated across the Core World and its colonies.`
+
+### XM11
+`One of last mass-produced AR platforms from Old Earth, the XM11 was a prolific service rifle before revolutions in material synthesis made the 5.56mm caliber assault weapon essentially obsolete. Thanks to its unmatched durability, serviceability, and affordability, the XM11 is still widely circulated in civilian markets. Though lacking in the punch required to penetrate more advanced armors, it is still a tried-and-true defense weapon against unarmored targets.`
+Weight: 2
+Range: Close-Medium-Long
+Ammunition: 30 x 5.56mm
+Actions:
+	**Volley** - (1 second) {3 x ACC Skill Check} \[-3 x 5.56mm] - |2| damage per successful check.
+	**Zeroed** - (1.5 second) {ACC+2 Skill Check} \[-1 x 5.56mm] - |4| damage
+Traits:
+	*DIY Service, Durable, Modular*
+
+### MSS-8
+`The MSS-8 is a commonly fielded designated marksman rifle designed by one of the very few organizations that chose to remain on the North American continent following its destabilization. Widely popular for marksmen in urban environments, who value its light weight and easy maneuverability, the MSS is a relatively small rifle that still delivers adequate bite. It fires 7.62mm rounds, which come in a number of variants, with a range well above 800 meters.`
+Weight: 1 
+Range: Medium-Long
+Ammunition: 7 x 7.62mm
+Actions:
+	**Quick Shot** - (1 second) {ACC Skill Check} \[-1 x 7.62mm] - |3| damage
+	**Paced Shot** - (2 seconds) {ACC+2 Skill Check} \[-1 x 7.62mm] - |5| damage
+Traits:
+	*Concealable, Modular*
+
+### Hyena-9
+`A comprehensive personal defense submachine gun, the Hyena is most commonly found in local militia or private law enforcment applications. One of the most modular platforms available today, this SMG is a favorite amongst a wide range of industries and sectors for its ease of use and adaptability. The Hyena uses 9mm cartridges and sports a staggering range of attachments.`
+Weight: 1 
+Range: Close
+Ammunition: 36 x 9mm
+Actions:
+	**Volley** - (1 second) {3 x ACC Skill Check} \[-3 x 9mm] - |2| damage per successful check.
+	**Spray & Pray** - (2 seconds) {6 x ACC-2 Skill Check} \[-6 x 9mm] - |1| damage per successful check.
+Traits:
+	*Concealable, Modular, DIY Service*
+
+## Melee Weapons
+
+### Combat Axe
+`More of a multi-tool than just a weapon, the axe is one of Humanity's oldest implementations. Advancements in material synthesis have brought this ancient tool into the modern era. The Combat Axe is a lightweight, easy to use, and highly durable tool that can be used in a vast range of applications.`
+Weight: 1
+Actions:
+	**Strike** - (.5 second) {MEL Skill Check} - |2 + MEL| Excess damage.
+	**Cleave** - (1 second) {MEL Skill Check} - |MEL| damage.
+	**Destroy** - (Non-Combat) {MEL Skill Check} - Destroy environmental object.
+	**Open** - (Non-Combat) {ATH/OPR Skill Check} - Open an object without destroying it.
+
+### Clak-Shnik / Ice Pike
+`The Clak-Shnik, more commonly known as an 'Ice Pike', serves a dual purpose. The first is as a path-clearing implement, often used by Deepfolk on their artic aquatic worlds to safely dislodge and manipulate large chunks of ice and rock from a distance. The second is as a lancing weapon, used in Old Cephis dueling rituals. The Ice Pike still finds modern applications in both combative and industrial settings. This collapsible alloy spear is wielded with deadly efficency by those with the martial arts mastery to apply it with incredible force and substantial range.`
+Weight: 2
+Actions:
+	**Jab** - (.5 second) {MEL Skill Check} - |3| damage.
+	**Pierce** - (1 second) {MEL Skill Check} - |4| damage, ignore Armor mitigation. 
+	**Sweep** - (1.5 seconds) {MEL Skill Check} - |3| damage against all nearby targets.
+	**Flourish** - (2 seconds) {MEL Skill Check} - |MEL| damage against one target OR |MEL| damage divided amongst up to three nearby targets.
+
+### Sk'Izzrex / Chainwhirler 
+`Like the Axe and Pike, the Sk'Izzrex is a Nightgaunt multi-tool, one that's  found a niche as a street weapon in addition to its other use as a climbing tool. The geography of Nodens is overwhelming composed by mountainous verticality, so the earliest Nightgaunts devised a tool to assist them in traversing their planet's harsh landscape. Far more exotic than its contemporary implements, the Chainwhirler is a gauntlet that is able to project an array of razor-notched hooks with a cast of the arm. Devestating to unarmored targets, the tool is also prized for its simplifcation of climbing endeavors in any environment.`
+Weight: 0
+Actions: 
+	**Strike** - (.5 second) - |2| damage.
+	**Rain Hooks** - (1.5 seconds) {MEL Skill Check per target} - |1| damage, inflict |Bleed 2|.
+	**Climb** - (Non-combat) {ATH Skill Check} - Create climbing anchor for single target.  
+
+# Tier II
+
+## Ranged Weapons
+
+### AK-650
+`Manufactured by an Old Earth corporation that survived the restructuring of the T-Collapse, the AK-650 is the near universal service rifle for modern Human forces. Developed during an era of advanced material synthesis, the 650 was fielded for anti-material applications. Firing charge-assisted .50 rounds in variable firing patterns, this rifle was favored for its ability to shred  armor and negate light cover advantages.`
+
+### Thuum / Cavitation Cannon 
+`One of the first bio-synthetic weapons to spread to other communities after the T-Collapse, the Thuum is a Deepfolk-designed, pressurized vacuum launcher. Emulating the natural weapon of "thrummers" (similar to Earthen Mantis Shrimps), the Cavitation Cannon utilizes acute air pressure manipulation to deliver devestating force in short ranges. When fired in water, the cannon is unmatched in its weight class for the damage it delivers. Fired out of water, the Thuum still delivers an immensely powerful and disorienting cone of kinetic force in short ranges.`
+
+### Sylex / Psi-Lens
+`The primary weapon of war for Nightgaunt forces, the Sylex is effectively a focusing lens for their innate psionic abilities. Resembling a staff with a glass sphere at the tip, the Sylex is highly evocative of "wizard" imagery. This visage is not at all lost on the Humans who have witnessed a Nightgaunt Psion pull otherworldly energy from their Sylexes to wreak devestating havoc.`
+
+## Melee Weapons
+
+### Chainsword
+`Early iterations of the Chainsword were so poorly executed that the concept of such a weapon was almost forgotten entirely. However, by macabre fascination or technical curiousity, one particular Core World development division managed to refine the grossly impractical weapon into something truly diabolical. The Chainsword is the nightmarish marriage of a chainsaw and a sword, as the name so unsubtly implies. While heavy and unwieldly, its advanced alloy teeth and magnetic coil engine make the Chainsword an ideal weapon for close engagements with heavy armor or dense crowds.`
+
+### Kolia / Polymorphic Blade
+`A deeply respected weapon from Deepfolk culture, the Kolia is a magnetically composed implement that can alter its shape on the fly. While the structural durability of its formations are relatively weak in comparison to other melee weapons, the modularity of attack patterns granted by the Polymorphic Blade make it a terrifying thing to face.`
+
+### Sy'Sk'Crav / Hardlight Blade
+`The discovery of cravite in the depths of Nodens allowed the Nightgaunts to wield a force not often seen by their people: sunlight. Like the Chainwhirler, the Sy'Sk'Crav is a gauntlet weapon that appears entirely mundane when not in its active state, resembling knuckle adornments for fists. However, when the embedded cravite is charged with UV radiation, it emits an incredibly dense refraction of light. This effect creates a blade of intense heat and brightness. Prized for its concealability and flashiness, the Hardlight Blade is popular amongst assassins lucky enough to get their hands on one.`
+
+# Tier III
+
+## Ranged Weapons
+
